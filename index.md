@@ -11,4 +11,9 @@ Muy buen compañero
 Ser el mejor programador
 Aprender ingles
 
+## Pasatiempos
+jugar al futbol 
+Andar en bicicleta
+Disfrutar con mi familia
+
 
