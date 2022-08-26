@@ -16,4 +16,9 @@ jugar al futbol
 Andar en bicicleta
 Disfrutar con mi familia
 
+## Sueños de grandesa
+Tener mi casa propia
+No depender de fin de mes
+Colo-Colo gane nuevamente la libertadores 
+
 
